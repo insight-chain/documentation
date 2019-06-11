@@ -1,2 +1,2 @@
 # documentation
-This repository includes all the related documents of INB public chain.
+This repository includes all the related documents of Insight Chain.
